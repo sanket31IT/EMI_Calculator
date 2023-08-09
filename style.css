@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:#C8E4B2;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px;
+    padding: 20px;
+    background-color: #9ED2BE;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+    display: none;
+}
